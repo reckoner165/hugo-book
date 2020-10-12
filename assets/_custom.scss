@@ -1,0 +1,20 @@
+/* You can add custom styles here. */
+
+.article-wrapper {
+    margin-top: 10%;
+    // border: solid;
+}
+
+img {
+    .notes-logo {
+        height: 50px !important;
+    }
+}
+
+.notes-toc {
+    margin-top: 5%;
+    flex: 0 0 $toc-width;
+    font-size: $font-size-12;
+    width: $toc-width;
+}
+// @import "plugins/numbered";
