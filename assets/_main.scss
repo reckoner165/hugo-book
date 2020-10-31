@@ -214,6 +214,10 @@ ul.pagination {
   margin-top: 5%;
   flex: 0 0 $toc-width;
   font-size: $font-size-12;
+  border: solid;
+  border-width: 1px;
+  border-color: #DDD;
+  padding: 3px;
 
   nav {
     width: $toc-width;
